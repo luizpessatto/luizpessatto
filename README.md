@@ -10,7 +10,7 @@
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 
   <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/903451540776435713/1011280862710603836/photomania-1c4c99465b54ee3ed1477f6ba54eaf63.jpg?width=810&height=764">
 </div>
